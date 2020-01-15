@@ -1,0 +1,49 @@
+Hello, everyone! My name is Pavel Jahont! I'm QA Engineer.
+I have expirience in:
+- participation in web projects, mobile projects
+- functional testing, non-functional testing, cross-browser testing, cross-platform testing, regression testing, re-testing, web-server testing
+- analyze, review and assess user requirements and specifications
+- writing and introducing changes to the testing specifications
+- plan the test with project managers, considering the context and understanding the test objectives and project risks, including estimating the time, staff time, acquiring resources, defining test cycles
+- writing check-lists, preparation, implementation and execution tests, monitor the test results
+- writing and maintenance of bug reports throughout the whole cycle of the bug
+- select tools to support testing and organize any training in tool use for testers
+- write test summary reports based on the information gathered during testing
+- automate tests
+- review tests developed by others
+
+I have skills in:
+Programming Languages: Java
+Test Management System: TestRail
+Tracking systems: Asana, Jira, Redmine
+Tools: SoapUI, JMeter, Selenium Webdriver 2.0, Firebug, FirePath, MySQL Workbench
+Frameworks: Maven, TestNG, JUnit
+CVS: GitHub, BitBucket, GitLab
+Automation stack: Java + Selenuim WebDriver + Maven + TestNG + Allure + Jenkins
+Patterns: PageObject, BDD, TDD, JBehave
+OS: Windows, Linux, iOS, Android
+Database: MySQL, Oracle SQL
+Virtual Machine: VM VirtialBox
+
+I have expirience of work:
+-----------------------------------------------------------------------------
+September 2018 - September 2019
+Project in company: Evernote
+Client side: Back-end
+Position: Automation QA Engineer
+-----------------------------------------------------------------------------
+August 2017 - September 2018
+Project in company: Deutsche Bank
+Client side: Back-end
+Position: Automation QA Engineer
+-----------------------------------------------------------------------------
+April 2017 - August 2017
+Project in company: FinPay
+Client side: Front-end and Back-end
+Position: QA Lead, Automation QA Engineer
+-----------------------------------------------------------------------------
+February 2016 / March 2017
+Project in company: AIS Novations LLC
+Client side: Front-end and Back-end
+Position: QA Engineer
+------------------------------------------------------------------------------
